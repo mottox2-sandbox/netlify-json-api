@@ -8,7 +8,7 @@ const posts = [
   },
   {
     id: 2,
-    title: "netlify-cliは検証にすごく便利",
+    title: "netlify-cliは検証にすごく便利 on Ginza.js",
     description: "何度もデプロイしたい時にnetlify-cliはとても便利。ブラウザでの操作いらずでサイトをデプロイ"
   },
   {
