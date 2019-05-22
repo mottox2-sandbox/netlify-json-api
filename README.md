@@ -1,0 +1,1 @@
+https://github.com/mottox2/netlify-code-samples/tree/master/hosting/dynamic-api

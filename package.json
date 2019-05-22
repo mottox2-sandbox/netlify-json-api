@@ -1,0 +1,11 @@
+{
+  "name": "netlify-json-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mottox2 <y.mottox2@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "netlify deploy",
+    "build": "node build.js"
+  }
+}
